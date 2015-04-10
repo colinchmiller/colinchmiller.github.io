@@ -1,0 +1,78 @@
+h1 {
+	color: #f6b71d;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+h3 {
+	color: #e5a304;
+	font-weight: bold;
+}
+
+body {
+	background-color: #8e5e50;
+}
+
+.title {
+	margin-left: 10%;
+	margin-right: 10%;
+	float:left;
+}
+
+.title h1{
+	font-size: 60px;
+	border: solid;
+	padding-left: 15%;
+	padding-right: 15%;
+	margin-right: 0;
+}
+
+.name li {
+	display: inline;
+	font-weight: bold;
+	font-size: 20px;
+	padding-right: 5px;
+}
+
+.image {
+	float: right;
+	margin-right: 5%;
+}
+
+.Education {
+	border: solid;
+	float: left;
+	width: 42%;
+	margin-right: 0;
+	padding-right: 5px;
+	padding-left: 5px;
+	clear: right;
+	margin-bottom: 50px;
+}
+
+.Education h3 {
+	text-decoration: underline;
+}
+
+.Experience {
+	border: solid;
+	float: right;
+	margin-left:0;
+	padding-left: 10px;
+	width: 55%;
+}
+
+.Experience h3 {
+	text-decoration: underline;
+}
+
+.certifications {
+	border: solid;
+	width: 42%;
+	margin-right: 0;
+	padding-right: 5px;
+	padding-left: 5px;
+	float: left;
+	clear: left;
+}
+	
