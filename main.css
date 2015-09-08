@@ -1,0 +1,60 @@
+h1 {
+	color: #8f4700;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+h2 {
+	color: #663300;
+	font-weight: bold;
+	padding-left: 15px;
+}
+
+h3 {
+	color: #3d1f00;
+	padding-left: 15px;
+}
+
+body {
+	background-color: #8e5e50;
+}
+main {
+	background: url("http://cdn.inspirationhut.net/wp-content/uploads/2012/11/Grungy-Paper-Texture-3.jpg") top center repeat;
+	width: 753px;
+	margin: 0 auto 0 auto;
+	padding: 10px;
+}
+header {
+	border-top: 5px solid #8f4700;
+	border-bottom: 5px solid #8f4700;
+}
+header h1 {
+	font-size: 30px;
+}
+.title {
+	margin-left: 10px;
+	margin-right: 10px;
+	float:left;
+	text-align: center;
+}
+
+.title h1{
+	font-size: 60px;
+	border: solid;
+	padding-left: 15px;
+	padding-right: 15px;
+	margin-right: 0;
+}
+
+.name li {
+	display: inline;
+	font-weight: bold;
+	font-size: 20px;
+	padding: 10px;
+}
+
+figure {
+	border: 10px solid #3d1f00;
+	border-radius: 15px;
+	padding: none;
+}
